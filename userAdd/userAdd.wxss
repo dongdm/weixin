@@ -1,0 +1,6 @@
+.view-text{
+  height: 10px;
+  text-align: left;
+  align-items: left;
+  width: 10px;
+}

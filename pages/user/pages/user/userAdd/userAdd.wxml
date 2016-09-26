@@ -1,12 +1,12 @@
 <!-- userAdd.wxml -->
-<view class="container">
-    <view class="view-text">
+<view>
+    <view>
         <text>用户名</text>
     </view>
-    <view class="view-text">
+    <view>
         <text>手机号</text>
     </view>
-    <view class="view-text">
+    <view>
         <text>添加</text>
     </view>
 </view>

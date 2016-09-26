@@ -12,11 +12,6 @@ Page({
       url: '../logs/logs'
     })
   },
-  userAddView: function(){
-    wx.navigateTo({
-      url: '../user/userAdd/userAdd'
-    })
-  },
   onLoad: function () {
     console.log('onLoad')
     var that = this
